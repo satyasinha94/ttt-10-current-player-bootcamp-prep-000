@@ -5,4 +5,5 @@ turncount = 0
       turncount += 1
     end
   end
+  return turncount
 end
